@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573388693 source:c:\users\vitor\desktop\explorer\projeto din\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_ponteiro.h"
+
+1573437987 c:\users\vitor\desktop\explorer\projeto din\lista_ponteiro.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1576935906 source:e:\projetos\projeto din\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_ponteiro.h"
+
+1576935902 e:\projetos\projeto din\lista_ponteiro.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
